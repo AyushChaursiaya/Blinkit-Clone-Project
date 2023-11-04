@@ -16,6 +16,7 @@ nav{
     position: sticky;
     top: 0px;
     z-index: 100;
+    background-color: #ffffff;
 }
 
 .nav-search{
@@ -104,13 +105,10 @@ nav{
 
 #footer-table-1{
     flex: 2;
-
-    /* display: flex; */
 }
 
 #footer-table-2{
     flex: 3;
-    /* display: flex; */
 }
 
 table{
@@ -169,7 +167,6 @@ td{
 }
 
 .made{
-    /* justify-content: center; */
     text-align: center;
     color: #828282;
 }
